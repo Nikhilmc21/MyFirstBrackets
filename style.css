@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+#img1{
+    margin: 30px;
+    border: 10px;
+    border-color:green;
+    width: 50%;
+    height: 50%
+}
+h1{
+    color:purple;
+    font-weight: bolder;
+}
+h2{
+    color: indigo;
+    font-weight: bold;
+}
